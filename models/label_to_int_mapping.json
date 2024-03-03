@@ -1,0 +1,18 @@
+{
+    "knife": 0,
+    "keyboard": 1,
+    "elephant": 2,
+    "bicycle": 3,
+    "airplane": 4,
+    "clock": 5,
+    "oven": 6,
+    "chair": 7,
+    "bear": 8,
+    "boat": 9,
+    "cat": 10,
+    "bottle": 11,
+    "truck": 12,
+    "car": 13,
+    "bird": 14,
+    "dog": 15
+}
