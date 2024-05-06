@@ -1,6 +1,6 @@
 # Designing Decision Support Systems Using Counterfactual Prediction Sets
 
-This repository contains the human subject study data and the code used in the paper [Designing Decision Support Systems Using Counterfactual Prediction Sets](https://arxiv.org/abs/2306.03928), which was presented at the ICML 2023 AI & HCI Workshop (**Best Paper Award**).
+This repository contains the human subject study data and the code used in the paper [Designing Decision Support Systems Using Counterfactual Prediction Sets](https://arxiv.org/abs/2306.03928), presented at the ICML 2023 AI & HCI Workshop (**Best Paper Award**) and published at ICML 2024.
 
 ## **Human Subject Study Data**
 The dataset as well as a more detailed description are under ```study_data/```.  
@@ -119,10 +119,10 @@ where <*frac*> is the same as above.
 If you use parts of the code/data in this repository for your own research purposes, please consider citing:
 
 ```
-@article{straitouri2023designing,
+@article{straitouri2024designing,
   title={Designing Decision Support Systems Using Counterfactual Prediction Sets},
   author={Straitouri, Eleni and Gomez-Rodriguez, Manuel},
-  journal={arXiv preprint arXiv:2306.03928},
-  year={2023}
+  booktitle={Proceedings of the 41st International Conference on Machine Learning},
+  year={2024}
 }
 ```
