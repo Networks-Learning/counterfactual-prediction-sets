@@ -1,8 +1,8 @@
 # Designing Decision Support Systems Using Counterfactual Prediction Sets
 
-This repository contains the human subject study data and the code used in the paper [Designing Decision Support Systems Using Counterfactual Prediction Sets](https://arxiv.org/abs/2306.03928), presented at the ICML 2023 AI & HCI Workshop (**Best Paper Award**) and published at ICML 2024.
+This repository contains the ImageNet16H-PS dataset and the code used in the paper [Designing Decision Support Systems Using Counterfactual Prediction Sets](https://arxiv.org/abs/2306.03928), presented at the ICML 2023 AI & HCI Workshop (**Best Paper Award**) and published at ICML 2024.
 
-## **Human Subject Study Data**
+## **ImageNet16H-PS Dataset**
 The dataset as well as a more detailed description are under ```study_data/```.  
 
 ## **Install Dependencies**
@@ -82,7 +82,7 @@ To compute and plot the empirical expert success probability for each $\alpha$ u
 
 ```python -m scripts.eval_plot_strict_vs_lenient```
 
-All experiments use the data collected from the human subject study, which are in ```study_data/```. We include a detailed description and the license of the data in ```study_data/README.md```.
+All experiments use the ImageNet16H-PS dataset collected from the human subject study, which are in ```study_data/```. We include a detailed description and the license of the dataset in ```study_data/README.md```.
 
 
 ## **Running Sensitivity Analysis** 
