@@ -16,4 +16,6 @@ Similarly, ```rewards_lenient.csv``` is organized as follows:
 * **worker_id**: same as above.
 * **timestamp**: same as above.
 
+```predictions_strict.csv``` and ```predictions_lenient.csv``` follow the same structure, except that in place of **reward**, they include **prediction** (Type: ```str```), that is the label values predicted by particpants. 
+
 The data are under the [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/).
