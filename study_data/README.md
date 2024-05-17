@@ -1,4 +1,4 @@
-# **Human subject study data**
+# **ImageNet16H-PS Dataset**
 
 ```rewards_strict.csv``` and ```rewards_lenient.csv``` contain the data that we collected in our human subject study for each image and prediction set under the strict and the lenient implementation of our systems. More specifically, ```rewards_strict.csv``` contains the following columns:
 
