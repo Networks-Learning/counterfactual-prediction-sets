@@ -1,6 +1,6 @@
 # Designing Decision Support Systems Using Counterfactual Prediction Sets
 
-This repository contains the ImageNet16H-PS dataset and the code used in the paper [Designing Decision Support Systems Using Counterfactual Prediction Sets](https://arxiv.org/abs/2306.03928), presented at the ICML 2023 AI & HCI Workshop (**Best Paper Award**) and published at ICML 2024.
+This repository contains the ImageNet16H-PS dataset and the code used in the paper [Designing Decision Support Systems Using Counterfactual Prediction Sets](https://arxiv.org/abs/2306.03928), presented at the ICML 2023 AI & HCI Workshop (**Best Paper Award**) and published at ICML 2024 (**Spotlight**).
 
 ## **ImageNet16H-PS Dataset**
 The dataset as well as a more detailed description are under ```study_data/```.  
